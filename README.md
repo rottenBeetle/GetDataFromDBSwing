@@ -1,7 +1,8 @@
 # GetDataFromDBSwing
 <p>Тестовое задание. Программа берет данные из базы данных и выводит их в приложении на Java Swing</p>
+<a href='https://disk.yandex.ru/d/z2WBQU4GttgtgA'>Скачать презентацию</a>
+
 <br>
-<a src='https://disk.yandex.ru/d/z2WBQU4GttgtgA'>Скачать презентацию</a>
 
 ![image](https://user-images.githubusercontent.com/93596353/183085453-b37a3ba6-f158-4869-b720-a1ed97acf4be.png)
 
